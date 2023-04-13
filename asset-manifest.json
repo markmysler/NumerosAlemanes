@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NumerosAlemanes/static/css/main.88ac80f9.css",
-    "main.js": "/NumerosAlemanes/static/js/main.a8d30740.js",
+    "main.css": "/NumerosAlemanes/static/css/main.4788b9cb.css",
+    "main.js": "/NumerosAlemanes/static/js/main.0c907cd0.js",
     "index.html": "/NumerosAlemanes/index.html",
-    "main.88ac80f9.css.map": "/NumerosAlemanes/static/css/main.88ac80f9.css.map",
-    "main.a8d30740.js.map": "/NumerosAlemanes/static/js/main.a8d30740.js.map"
+    "main.4788b9cb.css.map": "/NumerosAlemanes/static/css/main.4788b9cb.css.map",
+    "main.0c907cd0.js.map": "/NumerosAlemanes/static/js/main.0c907cd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ac80f9.css",
-    "static/js/main.a8d30740.js"
+    "static/css/main.4788b9cb.css",
+    "static/js/main.0c907cd0.js"
   ]
 }
